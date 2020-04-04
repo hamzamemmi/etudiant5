@@ -1,14 +1,4 @@
-Skip to content
- hamzamemmi / PROJET-FOENIXES
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
-
-Code Issues 0 Pull requests 0 Projects 0 Actions Wiki Security Pulse Community
-PROJET-FOENIXES/enigme statique
-@dhia-coder dhia-coder Create enigme statique
-88b1d6a 3 hours ago
-25 lines (19 sloc)  667 Bytes
  
 //fonction.h
 
